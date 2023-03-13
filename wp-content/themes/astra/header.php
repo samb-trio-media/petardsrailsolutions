@@ -19,6 +19,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 <html <?php language_attributes(); ?>>
 <head>
 <?php astra_head_top(); ?>
+
+<!-- Cookies Script -->
+<script src="https://platform.illow.io/banner.js?siteId=ed860f67-63ce-4de7-b637-398ed24361df"></script>
+
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="https://gmpg.org/xfn/11">
